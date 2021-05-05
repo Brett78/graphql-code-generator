@@ -1,5 +1,11 @@
 # @graphql-codegen/c-sharp
 
+## 2.0.0
+
+### Major Changes
+
+- 0d3b202a: According to feedback, it is needed to remove the access modifiers for interface properties.
+
 ## 1.19.0
 
 ### Minor Changes
